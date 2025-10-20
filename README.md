@@ -75,6 +75,7 @@ jupyter notebook notebooks/NASA_Wildfire_Analysis.ipynb
 ## 🧾 Author
 **Mohammad Ziaee** — Data Science & AI Enthusiast  
 GitHub: [https://github.com/ziaee-mohammad](https://github.com/ziaee-mohammad)
+👉 Instagram: [@ziaee_mohammad](https://www.instagram.com/ziaee_mohammad/)
 
 ---
 
